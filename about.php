@@ -20,7 +20,7 @@
             <a href="service.php">service</a>
             <a href="blog.php">Blog</a>
             <a href="contact.php">Contact</a>
-            <a href="">Login</a>
+            <a href="Register.php">Login</a>
 
             
             
